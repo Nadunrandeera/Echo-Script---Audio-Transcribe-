@@ -49,11 +49,4 @@ npm run dev
 ```
 *Port: 5173*
 
-## 💡 Presentation Tips
-1. **First Transcription**: On the first start, the AI model downloads automatically (show the logs for this!).
-2. **SSE Updates**: Highlight how the status changes in real-time without refreshing the page.
-3. **History Tab**: Show how previous jobs are securely stored and accessible at any time.
-4. **Copy Feature**: Use the "Copy Text" button for quick integration of scripts.
-
-## 🤝 Project Status
-Optimized for production-ready demonstration. Fully patched for security and performance.
+____________
